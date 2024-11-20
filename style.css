@@ -1,3 +1,42 @@
 * {
   box-sizing: border-box;
 }
+
+.container {
+  width: 750px;
+  height: 450px;
+  margin: 0 auto;
+  background-color: #2a293e;
+}
+
+.container-visor {
+  width: 550px;
+  height: 70px;
+  margin: 0 auto;
+  background-color: #dac292;
+}
+
+/*
+
+#05af4c
+#9c9b9b
+#DAC292
+#FF9F37
+#C4B7A6
+#717171
+#F1F1F1
+#9F9C99
+#577284
+#77212E
+#9B1B30
+#2A293E
+#755139
+#F0EAD6
+#615550
+#343148
+#62462B
+#98956C
+#F2CEAB
+#595757
+#4CAF50
+*/
